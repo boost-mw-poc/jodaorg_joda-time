@@ -1067,7 +1067,7 @@
     <junit.version>3.8.2</junit.version>
 
     <!-- Common control parameters -->
-    <joda.publish.auto>false</joda.publish.auto><!-- false/true -->
+    <joda.publish.auto>true</joda.publish.auto><!-- false/true -->
     <joda.publish.wait>validated</joda.publish.wait><!-- validated/published -->
 
     <!-- Plugin version numbers -->
